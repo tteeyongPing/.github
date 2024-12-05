@@ -19,6 +19,11 @@ Newsee는 1일 1뉴스가 가능하도록 알림을 보내주는 앱 서비스�
 
 <br>
 
+## 📰 배포
+[🔗 APK Download](https://drive.google.com/drive/folders/1zZjMxcnddYe7zuvf3w9GyyHm_JhJIT5G)
+
+<br>
+
 ## 📪 개발 코드 확인하기
 [🔗 Backend Team](https://proysm.notion.site/API-152b4ca715b080569c55debdad2cf031 "Backend Team")
 
