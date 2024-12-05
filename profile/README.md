@@ -1,4 +1,4 @@
-<img src = "image/title.png">
+<img src = "../title.png">
 <br>
 
 # 🍎 Newsee 프로젝트 소개
